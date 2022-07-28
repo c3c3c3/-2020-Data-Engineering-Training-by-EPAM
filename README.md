@@ -5,7 +5,7 @@ Within training, the following topics were covered: DB Fundamentals, DB Basics, 
 
 Final project:
 
-  technology: SQL for analysis (aggregations, multiple joins, CTEs, window frames, fact and dimension scheme)
+  technology: DBMS: PostgreSQL / SQL for analysis (aggregations, multiple joins, CTEs, window frames, fact and dimension scheme)
   / domain: music, sales
   / topis: American iTunes TOP-10 sales 2013-2017
   / source data: kworb.net, riaa.com, en.wikipedia.org
